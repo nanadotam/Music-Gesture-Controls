@@ -22,3 +22,7 @@ Rebuilding BMWs gesture control music switcher. ***(Side project)***
    - https://pub.aimind.so/real-time-hand-gesture-recognition-using-opencv-a-step-by-step-guide-2820618caa08
    - https://github.com/david-0609/OpenCV-Hand-Gesture-Control
    - https://github.com/mahaveerverma/hand-gesture-recognition-opencv/blob/master/docs/Documentation.pdf
+
+### Deploy
+- Use [Vercel](https://vercel.com/) for deployment
+- Embed with Mac app to control media playback
