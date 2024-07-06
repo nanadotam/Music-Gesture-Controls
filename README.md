@@ -1,5 +1,5 @@
 # Music-Gesture-Controls
-Rebuilding BMWs gesture control music switcher. ***(Side project)***
+Using Computer Vision to build a gesture control music switcher. ***(Side project)***
 
 ### Hardware Requirements
 1. **Webcam or Depth Camera**: To capture gestures.
